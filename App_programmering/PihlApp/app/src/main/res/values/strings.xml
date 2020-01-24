@@ -3,4 +3,14 @@
     <string name="dark_mode">Dark mode</string>
     <string name="light_mode">Light mode</string>
     <string name="profil_opret">Opret Profil</string>
+    <string name="admin">admin</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="kamera">kamera</string>
+    <string name="image">image</string>
+    <string name="tag_billede">tag billede</string>
+    <string name="back">back</string>
+    <string name="vælg">vælg billede</string>
+    <string name="location">get location</string>
 </resources>
